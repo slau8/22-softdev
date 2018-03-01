@@ -1,0 +1,3 @@
+
+var cl = document.createElementNS("www.w3.org/2000/svg","circle");
+cl.setAttribute("cx", "200");
